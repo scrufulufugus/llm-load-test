@@ -10,7 +10,7 @@ import numpy as np
 
 import pandas as pd
 
-from plugins import (
+from llm_load_test.plugins import (
     caikit_client_plugin,
     dummy_plugin,
     hf_tgi_plugin,
